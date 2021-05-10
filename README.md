@@ -32,3 +32,8 @@
 ![doctornewappointment](https://github.com/dishanttayade/FourthSemProject/blob/master/screenshots/createappointment.png?raw=true)
 ### Doctor making new prescriptions
 ![doctornewprescriptions](https://github.com/dishanttayade/FourthSemProject/blob/master/screenshots/createpresciption.png?raw=true)
+### Blog Page
+![blogpage](https://github.com/dishanttayade/FourthSemProject/blob/master/screenshots/blogpagebyadmin.png?raw=true)
+### Women Health Page
+![womenhealth1](https://github.com/dishanttayade/FourthSemProject/blob/master/screenshots/womenhealthage1.png?raw=true)
+![womenhealth2](https://github.com/dishanttayade/FourthSemProject/blob/master/screenshots/womenhealthage2.png?raw=true)
