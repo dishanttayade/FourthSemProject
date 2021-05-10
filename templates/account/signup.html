@@ -1,0 +1,61 @@
+{% extends "base.html" %}
+{% load bootstrap3 %}
+{% load static %}
+
+{% block link %}
+<link rel="stylesheet" href="{% static 'css/login.css' %}">
+
+{% endblock  %}
+
+{% block content %}
+    
+
+    <div class="container">
+        <h1>Sign Up</h1>
+        Already a member? <a href="{% url 'account:login' %}">Log In</a>
+        <hr>
+
+        {% if messages %}
+
+            {% for mess in messages %}
+            <h4 style="color:red">    {{ mess }}      </h4>
+            {% endfor %}
+
+
+        {% endif %}
+
+
+        <form action="." class="form" method="POST">
+          {% csrf_token %}
+            {{ form.as_p }}
+        <button type="submit" class="btn btn-primary" value="{{ next }}">Sign Up</button>
+        </form>
+        <div class="orlogwith">
+            <h5>or Sign Up with</h5>
+            <div class="d-flex justify-content-center">
+                <a href=""><img src="{% static 'pics/google.png' %}" alt="google"></a>
+                &emsp;
+                <a href=""><img src="{% static 'pics/facebook.png' %}" alt=""></a>
+            </div>
+        </div>
+
+    </div>     <br><br>
+{% endblock  %}
+
+
+
+
+
+<!-- Dishant Tayade -->
+
+
+{% block cont %}
+<div class="container">
+    <h1>Sign Up</h1>
+    <form method="POST">
+        {% csrf_token %}
+        {% bootstrap_form form %}
+        <input type="submit" value="Sign Up" class="btn btn-default">
+    </form>
+</div>
+{% endblock %}

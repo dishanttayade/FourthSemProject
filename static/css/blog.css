@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(221, 248, 238);
+    color:  rgb(4, 86, 114);
+}
+.container{
+    width: 1080px;
+    height: auto;
+    background-color: white;
+    padding: 25px;
+}
+
+.blogspot{
+    margin: 10px;
+    height: 300px;
+    border: .5px solid black;
+    display: flex;
+
+}
+
+.blogimage{
+    width: 50%;
+    height: 100%;
+    object-fit: inherit;
+    background-color: black;
+}
+.bloginfo{
+    width: 50%;
+    /*text-align: center;*/
+    padding: 10px;
+    color: black;
+}
+.blogwriterinfo{
+    display: flex;
+    justify-content: left;
+    text-align: left;
+}
+.writernameforblog{
+    text-decoration: none;
+}
+.writernameforblog{
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+.writernameforblog h6{
+    margin-bottom: 0px;
+}
+
+/* Dishant Tayade */

@@ -1,0 +1,66 @@
+
+#header{
+    background-color: darkblue;
+    opacity: 0.9;
+}
+
+
+.logo{
+    width: 60px;
+    height: 60px;
+    margin-left: 5px;
+    background-color: transparent;
+    opacity: 1;
+    color: black;
+}
+
+.medisafe{
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+.background-image-inner {
+    /*background-image: url("{% static 'pics/Banner.jpg' %}");*/
+    height: 675px;
+    top: 0;
+    left: 0;
+    width: 100%;
+    position: relative;
+    background-size: cover  ;
+}
+
+#bhag{
+    position: relative;
+    align-items: center;
+}
+#textonpic{
+    text-align: center;
+}
+#textonpic2{
+    text-align: left;
+    height: 690px;
+
+}
+
+#textoncanvas{
+    height: 760px;
+    width: auto;
+    background-color: black;
+    color: white;
+}
+
+.dropdown .show{
+    position: relative;
+}
+
+#profile-icon{
+    width: 45px;
+    height: 45px;
+    margin-top: -5px;
+    margin-right: 5px;
+}
+.show {
+    display: block;
+  }
+
+
+/* <!--    Dishant Tayade  S20190010175    --> */
