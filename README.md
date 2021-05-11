@@ -105,3 +105,17 @@ http://127.0.0.1:8000/admin
 ![womenhealth2](https://github.com/dishanttayade/FourthSemProject/blob/master/screenshots/womenhealthage2.png?raw=true)
 ### Logout Page
 ![logpout](https://github.com/dishanttayade/FourthSemProject/blob/master/screenshots/logoutpage.png?raw=true)
+
+## Doctors can
+- add a patient
+- make an appointment
+- see all appointments
+- write prescriptions
+- see all appointments
+- create invoices
+
+## Patients can
+- make an appointment
+- see all appointments
+- see all their priscriptions and medical history
+- see their payment history
