@@ -7,7 +7,7 @@
 ![group](https://img.shields.io/badge/Group-19-76B900?style=for-the-badge&logoColor=white)
 
 ## Description
-Medisafe enables patients book confirmed appointments and maintaintheir health records with the prescriptions. All your medical records are securely kept in your health account.  Just login to Medisafe service, and all records will be in one place. Medisafe provides to keep your medical history digitally. You can see what prescriptions are given. You can make an appointment with your doctor. You can see appointment list as well.
+Medisafe enables patients book confirmed appointments and maintain their health records with the prescriptions. All your medical records are securely kept in your health account.  Just login to Medisafe service, and all records will be in one place. Medisafe provides to keep your medical history digitally. You can see what prescriptions are given. You can make an appointment with your doctor. You can see appointment list as well.
 
 ## Modules
 ### Account
