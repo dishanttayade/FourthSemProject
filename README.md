@@ -57,6 +57,20 @@ http://127.0.0.1:8000/
 ```
 - In the above url, you can see the application run.
 
+
+## Admin page
+- You can create a superuser using the following command.
+```
+python manage.py createsuperuser
+```
+- Enter the username, email, password.
+- Login with the username and password on following link.
+```
+http://127.0.0.1:8000/admin
+```
+- Now you can see the admin page and all the backend of the project
+
+
 ## Screenshots of website
 ### Homepage
 ![homepage1](https://github.com/dishanttayade/FourthSemProject/blob/master/screenshots/homepage1.png?raw=true)
@@ -89,16 +103,3 @@ http://127.0.0.1:8000/
 ### Women Health Page
 ![womenhealth1](https://github.com/dishanttayade/FourthSemProject/blob/master/screenshots/womenhealthage1.png?raw=true)
 ![womenhealth2](https://github.com/dishanttayade/FourthSemProject/blob/master/screenshots/womenhealthage2.png?raw=true)
-
-## Admin page
-- You can create a superuser using the following command.
-```
-python manage.py createsuperuser
-```
-- Enter the username, email, password.
-- Login with the username and password on following link.
-```
-http://127.0.0.1:8000/admin
-```
-- Now you can see the admin page and all the backend of the project
-
