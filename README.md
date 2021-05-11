@@ -103,3 +103,5 @@ http://127.0.0.1:8000/admin
 ### Women Health Page
 ![womenhealth1](https://github.com/dishanttayade/FourthSemProject/blob/master/screenshots/womenhealthage1.png?raw=true)
 ![womenhealth2](https://github.com/dishanttayade/FourthSemProject/blob/master/screenshots/womenhealthage2.png?raw=true)
+### Logout Page
+![logpout](https://github.com/dishanttayade/FourthSemProject/blob/master/screenshots/logoutpage.png?raw=true)
