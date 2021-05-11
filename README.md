@@ -117,5 +117,6 @@ http://127.0.0.1:8000/admin
 ## Patients can
 - make an appointment
 - see all appointments
-- see all their priscriptions and medical history
+- see all their prescriptions
+- see all their medical history
 - see their payment history
