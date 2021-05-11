@@ -38,6 +38,7 @@ Medisafe enables patients book confirmed appointments and maintaintheir health r
 ## Procedure to run the project
 - Install Python(3.8.5) (Dont Forget to add it to the path variables)
 - Create a virtual environment if you need.
+- Download the project and extract or clone it to your pc.
 - Now move to the project directory.
 - Run the following command.
 ```
