@@ -9,7 +9,7 @@ GENDER_CHOICES = [
     ('O', 'Other')
 ]
 
-BLOOD_GROUPS = [
+BLOOD_GROUPS = [    
     ('O-', 'O-'),
     ('O+', 'O+'),
     ('A-', 'A-'),
